@@ -200,15 +200,14 @@ To submit this project via GitHub as required:
    git add .
    git commit -m "Complete BAMAT207 Probabilistic SMS Spam Detection Project"
    ```
-2. Create a new repository on your GitHub account named:
-   `BAMAT207-Probabilistic-SMS-Spam-Detection`
-3. Link and push your commits:
+2. Link and push your commits:
    ```bash
-   git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/BAMAT207-Probabilistic-SMS-Spam-Detection.git
+   git remote add origin https://github.com/Harshith1987/BAMAT207-Probabilistic-SMS-Spam-Detection.git
    git branch -M main
    git push -u origin main
    ```
-4. Copy your repository URL (e.g., `https://github.com/<YOUR_GITHUB_USERNAME>/BAMAT207-Probabilistic-SMS-Spam-Detection`) and submit it on the assignment submission portal before the deadline.
+3. Your submission link:
+   `https://github.com/Harshith1987/BAMAT207-Probabilistic-SMS-Spam-Detection`
 
 ---
 
