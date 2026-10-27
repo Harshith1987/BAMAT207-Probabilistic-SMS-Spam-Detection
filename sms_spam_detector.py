@@ -1,7 +1,8 @@
 """
-BAMAT207: Probability and Statistics Project Activity
+BAMAT207: Applications of Probability and Statistics Project
+Title: Beyond the Words: A Probabilistic and Bayesian Approach to SMS Spam Detection
 Topic: Probability and Random Variables
-Project: Probabilistic SMS Spam Detection
+Author: T. Harshith (25BCE2863)
 
 Description:
 This script performs end-to-end data processing, probabilistic calculations,
@@ -479,8 +480,9 @@ def predict_sms(message, model, vectorizer):
 # ---------------------------------------------------------
 def main():
     print("=" * 70)
-    print("BAMAT207 PROBABILITY AND STATISTICS PROJECT")
-    print("STUDENT PROJECT: PROBABILISTIC SMS SPAM DETECTION")
+    print("BAMAT207: APPLICATIONS OF PROBABILITY AND STATISTICS")
+    print("PROJECT: BEYOND THE WORDS - A PROBABILISTIC & BAYESIAN APPROACH")
+    print("AUTHOR: T. HARSHITH | REG NO: 25BCE2863")
     print("=" * 70)
     
     # 1. Dataset Handling

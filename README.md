@@ -1,5 +1,6 @@
-# BAMAT207: Probability and Statistics
-## Student Project: Probabilistic SMS Spam Detection
+# BAMAT207: Applications of Probability and Statistics
+## Beyond the Words: A Probabilistic and Bayesian Approach to SMS Spam Detection
+### An Empirical Study of Random Variables, Bayes' Theorem, and Multinomial Naive Bayes
 
 **Course Code:** BAMAT207  
 **Topic:** Probability and Random Variables  
